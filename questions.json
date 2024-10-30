@@ -1,0 +1,61 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "What is the cardinal number for 'seventh'?",
+      "options": [
+        "7",
+        "17",
+        "70",
+        "77"
+      ],
+      "correct": 0,
+      "secondImg":""
+    },
+    {
+      "questionNo": "Q2",
+      "question": "The number '14' is a:",
+      "options": [
+        "Cardinal number",
+        "Ordinal number"
+      ],
+      "correct": 0,
+      "secondImg":"./images/2.png"
+    },
+    {
+      "questionNo": "Q3",
+      "question": "If the first picture is of an apple, which is the third picture?",
+      "options": [
+        "Apple",
+        "Mango",
+        "Orange",
+        "Grapes"
+      ],
+      "correct": 2,
+      "secondImg":"./images/3.png"
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Which ordinal number comes after 'sixth'?",
+      "options": [
+        "Fifth",
+        "Seventh",
+        "Eighth",
+        "Sixth"
+      ],
+      "correct": 1,
+      "secondImg":"./images/4.png"
+    },
+    {
+      "questionNo": "Q5",
+      "question": "The first picture is of a chocolate, which is the ninth picture?",
+      "options": [
+        "Chocolate",
+        "Cup-cake",
+        "Balloon",
+        "Candy"
+      ],
+      "correct": 0,
+      "secondImg":"./images/5.png"
+    }
+  ]
+  
